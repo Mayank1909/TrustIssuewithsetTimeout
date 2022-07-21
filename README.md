@@ -1,4 +1,4 @@
-# TrustIssuewithsetTimeout
+# 💔 TrustIssuewithsetTimeout
 Go live in vs code open chrome or youe default web browser . <br />
 Go to the developer option in chrome web browser,  <br />
 You will notice that how setTimeout sometimes give late output. <br />
